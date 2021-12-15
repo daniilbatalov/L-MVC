@@ -249,7 +249,6 @@ int main(int argc, char *argv[])
     {
         std::cout << a + 1 << " ";
     }
-
     QCoreApplication::exit(0);
     return 0;
 }
